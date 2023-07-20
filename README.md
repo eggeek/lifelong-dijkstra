@@ -8,5 +8,6 @@ A proof-of-concept experiment on reusing the shortest path tree during the execu
   * clean: `make clean`
   * dev: `make dev`
   * fast: `make fast`
+  * test: `make test` (`fast` without `-DNDEBUG`)
 
 * run executable: `./bin/main`
